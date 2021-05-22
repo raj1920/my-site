@@ -1,3 +1,5 @@
+import Switch from "./switch";
+
 const people = [
     {
       name: "Jane Cooper",
@@ -232,12 +234,7 @@ const people = [
                           <span>1 min ago</span>
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
-                          <a
-                            href="#"
-                            className="text-indigo-600 hover:text-indigo-900"
-                          >
-                            <img src="https://img.icons8.com/windows/32/26e07f/toggle-on.png"/>
-                          </a>
+                          <Switch />
                         </td>
                       </tr>
                       <tr>
@@ -278,18 +275,8 @@ const people = [
                           <span>1 min ago</span>
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
-                          <a
-                            href="#"
-                            className="text-indigo-600 hover:text-indigo-900"
-                          >
-                           <img src="https://img.icons8.com/officel/32/ffffff/toggle-off.png"/>
-                          </a>
+                          <Switch />
                         </td>
-                        
-                        
-                      
-                            
-                           
                       </tr>
                       <tr>
                       
