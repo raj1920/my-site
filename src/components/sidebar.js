@@ -2,14 +2,14 @@ import React from "react";
 
 const Sidebar = () => {
   return (
-    <div>
-      <div className="relative min-h-screen flex ">
-        <div className="bg-gray-500 text-black w-64 space-y-5 p-2">
-          <div className="text-white flex items-center  space-x-2 ">
+    <>
+    <div className="fixed h-screen">
+      <div className="min-h-screen flex">
+        <div className="bg-gray-100 text-black w-64">
+          <div className="text-black flex items-center py-4 px-2">
             <svg
-              className="w-8 "
+              className="h-5 w-5 mr-2"
               xmlns="http://www.w3.org/2000/svg"
-              class="h-5 w-5"
               viewBox="0 0 20 20"
               fill="currentColor"
             >
@@ -17,7 +17,7 @@ const Sidebar = () => {
             </svg>
             <span>Projects</span>
           </div>
-          <div className="text-white flex items-center space-x-2">
+          <div className="text-black flex items-center py-4 px-2">
             <svg
               className="w-8 "
               xmlns="http://www.w3.org/2000/svg"
@@ -33,7 +33,7 @@ const Sidebar = () => {
             </svg>
             <span>Oraganisation Profile</span>
           </div>
-          <div className="text-white flex items-center space-x-2">
+          <div className="text-indigo-700 flex items-center py-4 px-2 bg-indigo-200">
             <svg
               className="w-8 "
               xmlns="http://www.w3.org/2000/svg"
@@ -52,6 +52,8 @@ const Sidebar = () => {
         </div>
       </div>
     </div>
+    <div className="" style={{ width: "250px" }} />
+    </>
   );
 };
 export default Sidebar;

@@ -2,7 +2,8 @@ import React from "react";
 
 export default function Navbar() {
   return (
-    <nav className="bg-white mr-auto">
+    <>
+    <nav className="bg-white mr-auto fixed z-10 w-screen">
       <div className="max-w-8xl mx-auto">
         <div className="flex ml-2 items-center text-blue-900 px-4">
           <img src="/logo.png" alt="img"/>
@@ -40,5 +41,7 @@ export default function Navbar() {
         </div>
       </div>
     </nav>
+    <div className="" style={{ height: "72px" }} />
+    </>
   );
 }

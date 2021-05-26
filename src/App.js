@@ -30,6 +30,7 @@ function App() {
               </svg>
               <span>Permissions</span>
             </div>
+            <div className="bg-black mx-2 my-3" style={{ width: 1, }} /> 
             <div className="inline-flex items-center p-3">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
