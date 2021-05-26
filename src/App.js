@@ -187,6 +187,7 @@ function App() {
               
               <span>Access Control</span>
             </div>
+            <div className="bg-black mx-2 my-3" style={{ width: 1, }} /> 
             <div className="inline-flex items-center p-3">
              
               <span>Assigned Members</span>
