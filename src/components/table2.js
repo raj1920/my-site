@@ -27,7 +27,7 @@ const people = [
                     </th>
                     <th
                       scope="col"
-                      className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
+                      className="px-6 py-3 text-center text-xs font-medium text-gray-500 uppercase tracking-wider"
                     >
                       Access Level
                     </th>
@@ -78,7 +78,7 @@ const people = [
                           </div>
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap">
-                          <span className="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">
+                          <span className="w-full py-2 px-1 inline-flex justify-center text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">
                             All Access
                           </span>
                         </td>
@@ -127,7 +127,7 @@ const people = [
                         
                         
                         <td className="px-6 py-4 whitespace-nowrap">
-                          <span className="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-gray-200 text-gray-500">
+                          <span className="w-full py-2 px-1 inline-flex justify-center text-xs leading-5 font-semibold rounded-full bg-gray-200 text-gray-500">
                             No Access
                           </span>
                         </td>
@@ -174,7 +174,7 @@ const people = [
                           </div>
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap">
-                          <span className="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-red-200 text-red-800">
+                          <span className="w-full py-2 px-1 inline-flex justify-center text-xs leading-5 font-semibold rounded-full bg-red-200 text-red-800">
                             Restricted Access
                           </span>
                         </td>
@@ -220,7 +220,7 @@ const people = [
                           </div>
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap">
-                          <span className="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-red-200 text-red-800">
+                          <span className="w-full py-2 px-1 inline-flex justify-center text-xs leading-5 font-semibold rounded-full bg-red-200 text-red-800">
                             Restricted Access
                           </span>
                         </td>
@@ -266,7 +266,7 @@ const people = [
                           </div>
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap">
-                          <span className="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-gray-200 text-gray-500">
+                          <span className="w-full py-2 px-1 inline-flex justify-center text-xs leading-5 font-semibold rounded-full bg-gray-200 text-gray-500">
                             No Access
                           </span>
                         </td>
@@ -318,7 +318,7 @@ const people = [
                           </div>
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap">
-                          <span className="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">
+                          <span className="w-full py-2 px-1 inline-flex justify-center text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">
                             All Access
                           </span>
                         </td>
