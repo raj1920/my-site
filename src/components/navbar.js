@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="bg-white mr-auto">
       <div className="max-w-8xl mx-auto">
         <div className="flex ml-2 items-center text-blue-900 px-4">
-          <img src="/logo.png" />
+          <img src="/logo.png" alt="img"/>
           <div className="flex-grow" />
           <div className="rounded-full h-10 w-10 bg-blue-500" />
           <span className="text-lg mx-3">Kishore</span>

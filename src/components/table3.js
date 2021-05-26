@@ -95,7 +95,7 @@ const people = [
                             href="#"
                             className="text-indigo-600 hover:text-indigo-900"
                           >
-                           <img src="https://img.icons8.com/windows/32/26e07f/toggle-on.png"/>
+                           <img src="https://img.icons8.com/windows/32/26e07f/toggle-on.png"alt="img"/>
                           </a>
                         </td>
                         </tr>
@@ -144,7 +144,7 @@ const people = [
                             href="#"
                             className="text-indigo-600 hover:text-indigo-900"
                           >
-                            <img src="https://img.icons8.com/windows/32/26e07f/toggle-on.png"/>
+                            <img src="https://img.icons8.com/windows/32/26e07f/toggle-on.png"alt="img"/>
                           </a>
                         </td> 
                         
@@ -192,7 +192,7 @@ const people = [
                             href="#"
                             className="text-indigo-600 hover:text-indigo-900"
                           >
-                            <img src="https://img.icons8.com/windows/32/26e07f/toggle-on.png"/>
+                            <img src="https://img.icons8.com/windows/32/26e07f/toggle-on.png"alt="img"/>
                           </a>
                         </td>
                        </tr>
@@ -321,7 +321,7 @@ const people = [
                             href="#"
                             className="text-indigo-600 hover:text-indigo-900"
                           >
-                            <img src="https://img.icons8.com/windows/32/26e07f/toggle-on.png"/>
+                            <img src="https://img.icons8.com/windows/32/26e07f/toggle-on.png"alt="img"/>
                           </a>
                         </td>
                       </tr>

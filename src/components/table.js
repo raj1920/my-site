@@ -55,7 +55,7 @@ const people = [
                         <td className="px-6 py-4 whitespace-nowrap">
                           <div className="flex items-center">
                             <div className="flex-shrink-0 h-6 w-6">
-                            <img src="https://img.icons8.com/material-two-tone/20/ffffff/circled.png"/>
+                            <img src="https://img.icons8.com/material-two-tone/20/ffffff/circled.png" alt="img"/>
                             </div>
                             <div className="ml-4">
                               <div className="text-sm font-medium text-gray-900">
@@ -80,6 +80,8 @@ const people = [
                             href="#"
                             className="text-indigo-600 hover:text-indigo-900"
                           >
+                          
+
                             <svg
                               xmlns="http://www.w3.org/2000/svg"
                               className="h-6 w-6"
@@ -107,7 +109,7 @@ const people = [
                         <td className="px-6 py-4 whitespace-nowrap">
                           <div className="flex items-center">
                             <div className="flex-shrink-0 h-6 w-6">
-                            <img src="https://img.icons8.com/material-two-tone/20/ffffff/circled.png"/>
+                            <img src="https://img.icons8.com/material-two-tone/20/ffffff/circled.png" alt="img"/>
                             </div>
                             <div className="ml-4">
                               <div className="text-sm font-medium text-gray-900">
@@ -159,7 +161,7 @@ const people = [
                         <td className="px-6 py-4 whitespace-nowrap">
                           <div className="flex items-center">
                             <div className="flex-shrink-0 h-6 w-6">
-                            <img src="https://img.icons8.com/material-two-tone/20/ffffff/circled.png"/>
+                            <img src="https://img.icons8.com/material-two-tone/20/ffffff/circled.png" alt="img"/>
                             </div>
                             <div className="ml-4">
                               <div className="text-sm font-medium text-gray-900">
@@ -211,7 +213,7 @@ const people = [
                         <td className="px-6 py-4 whitespace-nowrap">
                           <div className="flex items-center">
                             <div className="flex-shrink-0 h-6 w-6">
-                            <img src="https://img.icons8.com/material-two-tone/20/ffffff/circled.png"/>
+                            <img src="https://img.icons8.com/material-two-tone/20/ffffff/circled.png"alt="img"/>
                             </div>
                             <div className="ml-4">
                               <div className="text-sm font-medium text-gray-900">
