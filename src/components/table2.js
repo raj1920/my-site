@@ -90,7 +90,7 @@ const people = [
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                           <a
-                            href="#"
+                            href="google.com"
                             className="text-indigo-600 hover:text-indigo-900"
                           >
                            <img src="https://img.icons8.com/windows/32/26e07f/toggle-on.png"alt="img"/>
@@ -139,7 +139,7 @@ const people = [
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                           <a
-                            href="#"
+                            href="google.com"
                             className="text-indigo-600 hover:text-indigo-900"
                           >
                             <img src="https://img.icons8.com/officel/32/ffffff/toggle-off.png"alt="img"/>
@@ -186,10 +186,10 @@ const people = [
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                           <a
-                            href="#"
+                            href="google.com"
                             className="text-indigo-600 hover:text-indigo-900"
                           >
-                            <img src="https://img.icons8.com/windows/32/26e07f/toggle-on.png"/>
+                            <img src="https://img.icons8.com/windows/32/26e07f/toggle-on.png" alt="img"/>
                           </a>
                         </td>
                        </tr>
@@ -232,7 +232,7 @@ const people = [
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                           <a
-                            href="#"
+                            href="google.com"
                             className="text-indigo-600 hover:text-indigo-900"
                           >
                             <img src="https://img.icons8.com/windows/32/26e07f/toggle-on.png"alt="img"/>
@@ -278,7 +278,7 @@ const people = [
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                           <a
-                            href="#"
+                            href="google.com"
                             className="text-indigo-600 hover:text-indigo-900"
                           >
                            <img src="https://img.icons8.com/officel/32/ffffff/toggle-off.png "alt="img"/>
@@ -330,7 +330,7 @@ const people = [
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                           <a
-                            href="#"
+                            href="google.com"
                             className="text-indigo-600 hover:text-indigo-900"
                           >
                             <img src="https://img.icons8.com/windows/32/26e07f/toggle-on.png"alt="img"/>

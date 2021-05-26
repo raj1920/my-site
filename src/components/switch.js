@@ -4,7 +4,8 @@ export default function Switch() {
   const [state, setState] = React.useState(true);
 
   return (
-    <a className="cursor-pointer" onClick={() => setState(t => !t)}>
+    <a href= "google.com"
+     className="cursor-pointer" onClick={() => setState(t => !t)}>
       {state ? (
         <img src="https://img.icons8.com/windows/32/26e07f/toggle-on.png" alt="img"/>
       ) : (

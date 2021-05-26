@@ -76,8 +76,8 @@ const people = [
                           <span>1 min ago</span>
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
-                          <a
-                            href="#"
+                          <a href="google.com"
+                            
                             className="text-indigo-600 hover:text-indigo-900"
                           >
                           
@@ -131,7 +131,7 @@ const people = [
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                           <a
-                            href="#"
+                            href="google.com"
                             className="text-indigo-600 hover:text-indigo-900"
                           >
                             <svg
@@ -183,7 +183,7 @@ const people = [
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                           <a
-                            href="#"
+                            href="google.com"
                             className="text-indigo-600 hover:text-indigo-900"
                           >
                             <svg
@@ -235,7 +235,7 @@ const people = [
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                           <a
-                            href="#"
+                            href="google.com"
                             className="text-indigo-600 hover:text-indigo-900"
                           >
                             <svg
@@ -285,7 +285,7 @@ const people = [
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                           <a
-                            href="#"
+                            href="google.com"
                             className="text-indigo-600 hover:text-indigo-900"
                           >
                             <svg
